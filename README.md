@@ -7,4 +7,4 @@ Website for the game **Kelvara: Space Roguelite** (GitHub Pages).
 - `/kelvara/support/` — support.
 - `/app-ads.txt` — placeholder until AdMob (spec 011).
 
-Plain HTML/CSS, style v2 of the game (`style.css`), fonts Exo 2 and Inter from Google Fonts. Images in `/kelvara/img/` come from the game repo (`design/store/out`, `design/mockups`). Replace `SUPPORT_EMAIL` once the support address is known; the Google Play button is disabled until the store link exists.
+Plain HTML/CSS, style v2 of the game (`style.css`), fonts Exo 2 and Inter from Google Fonts. Images in `/kelvara/img/` come from the game repo (`design/store/out`, `design/mockups`). Replace `kelvara.support@gmail.com` once the support address is known; the Google Play button is disabled until the store link exists.
